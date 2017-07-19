@@ -1,0 +1,37 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+}
+
+.jumbotron{
+  border-radius:10px;
+}
+h1 ,p{
+  font-weight: bold;
+  color:blue;
+}
+
+li {
+  margin-bottom: 5px;
+}
+h1,h2{
+  font-family:Verdana;
+  color:blue;
+}
+.jumbotron{
+  border-radius:10px;
+}
+footer {
+  margin-top: 50px;
+  padding-top: 25px;
+  border-top: 1px solid lightgrey;
+}
+
+footer > a {
+  color: #BBBBBB;
+}
